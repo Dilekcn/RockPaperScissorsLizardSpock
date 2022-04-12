@@ -15,7 +15,18 @@
   height: 220px;
   border-radius: 50%;
 }
+.img1{
+  position: absolute;
+  margin-top: -150px;
+  right: 15px;
 
+  
+}
+.img1 img{
+  width: 250px;
+  height: 220px;
+  border-radius: 50%;
+}
 /* .App-logo {
   height: 40vmin;
   pointer-events: none;
